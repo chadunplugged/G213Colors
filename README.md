@@ -17,7 +17,7 @@ and/or/maybe `sudo apt install python3-usb`
 
 `sudo apt install python3-randomcolor`
 
-`sudo python3 G213Colors.py`
+`sudo python3 G213Colors.py -rs`
 
 
 ## Notable Forks
